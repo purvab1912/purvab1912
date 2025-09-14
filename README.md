@@ -1,24 +1,27 @@
-<!-- Profile README.md -->
-
-<div align="center">
-
 # 👋 Hi, I'm Purva  
 
 🎯 **Data Science Aspirant | Analytics Enthusiast | Learner**  
 
-I am passionate about exploring data, building models, and creating meaningful visualizations.  
-My GitHub is a collection of practice projects where I learn, experiment, and grow my skills in **programming, machine learning, and analytics**.  
+I’m passionate about transforming **raw data into actionable insights**.  
+This profile is where I practice, experiment, and grow my skills in **programming, machine learning, deep learning, and analytics**.  
 
 ---
 
-## 📂 My Projects  
+## 📂 Projects  
 
-🔹 **Python Practice** – Problem solving, data wrangling, and foundational coding skills.  
-🔹 **Java Practice** – Object-oriented programming, algorithms, and logic building.  
-🔹 **ML Practice** – Experiments with datasets, predictive modeling, and evaluation.  
-🔹 **DL Practice** – Neural networks, deep learning basics, and hands-on experiments.  
+- 🐍 [**Python Practice**](https://github.com/purvab1912/pythonpractice)  
+  Data wrangling, problem solving, and automation exercises.  
 
-Each project is a step forward in my **data science journey** 🚀.  
+- ☕ [**Java Practice**](https://github.com/purvab1912/javapractice)  
+  Core OOP concepts, algorithms, and coding fundamentals.  
+
+- 🤖 [**ML Practice**](https://github.com/purvab1912/mlpractice)  
+  Experiments with datasets, predictive modeling, and evaluation.  
+
+- 🧠 [**DL Practice**](https://github.com/purvab1912/dlpractice)  
+  Building neural networks and exploring deep learning concepts.  
+
+Each project is a stepping stone in my **data science journey** 🚀.  
 
 ---
 ## 🛠️ Skills  
@@ -40,5 +43,3 @@ Each project is a step forward in my **data science journey** 🚀.
 ---
 
 ✨ Always learning, always curious — because **data has a story to tell**.  
-
-</div>
