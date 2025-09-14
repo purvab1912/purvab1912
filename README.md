@@ -15,7 +15,7 @@ This profile is where I practice, experiment, and grow my skills in **programmin
 - ☕ [**Java Practice**](https://github.com/purvab1912/javap)  
   Core OOP concepts, algorithms, and coding fundamentals.  
 
-- 🤖 [**ML Practice**](https://github.com/purvab1912/mlpractice)  
+- 🤖 [**ML Practice**](https://github.com/purvab1912/ML_practiceProject)  
   Experiments with datasets, predictive modeling, and evaluation.  
 
 - 🧠 [**DL Practice**](https://github.com/purvab1912/dlpractice)  
