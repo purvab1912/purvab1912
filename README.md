@@ -19,7 +19,10 @@ This profile is where I practice, experiment, and grow my skills in **programmin
   Experiments with datasets, predictive modeling, and evaluation.  
 
 - 🧠 [**DL Practice**](https://github.com/purvab1912/dlpractice)  
-  Building neural networks and exploring deep learning concepts.  
+  Building neural networks and exploring deep learning concepts.
+
+- 📊 [**EDA Kaggle Projects**](https://github.com/purvab1912/EDA_KaggleProjects)  
+Performing exploratory data analysis on real-world datasets to uncover patterns, trends, and actionable insights.
 
 Each project is a stepping stone in my **data science journey** 🚀.  
 
